@@ -1,0 +1,46 @@
+{
+  "id": "00-00085H9",
+  "name": "Coliseum Alfonso Pérez",
+  "club": "Getafe CF",
+  "areas": [{
+      "id": "tr_inf_par",
+      "blocks": [1]
+    },
+    {
+      "id": "gn_sup",
+      "blocks": [10]
+    },
+    {
+      "id": "gn_inf",
+      "blocks": [11]
+    },
+    {
+      "id": "tr_sup_par",
+      "blocks": [2]
+    },
+    {
+      "id": "gs_inf",
+      "blocks": [20]
+    },
+    {
+      "id": "gs_sup",
+      "blocks": [22]
+    },
+    {
+      "id": "lte_sup",
+      "blocks": [30]
+    },
+    {
+      "id": "lte_inf",
+      "blocks": [31]
+    },
+    {
+      "id": "tr_sup_impar",
+      "blocks": [4]
+    },
+    {
+      "id": "tr_inf_impar",
+      "blocks": [5]
+    }
+  ]
+}

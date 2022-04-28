@@ -1,0 +1,34 @@
+{
+  "id": "00-00085GL",
+  "name": "Nou Estadi",
+  "club": "Nàstic de Tarragona",
+  "areas": [{
+      "id": "tr_inf",
+      "blocks": [2]
+    },
+    {
+      "id": "tr_sup",
+      "blocks": [1]
+    },
+    {
+      "id": "pr_inf",
+      "blocks": [10]
+    },
+    {
+      "id": "pr_sup",
+      "blocks": [12]
+    },
+    {
+      "id": "gn_tr",
+      "blocks": [31]
+    },
+    {
+      "id": "gn_pr",
+      "blocks": [311]
+    },
+    {
+      "id": "gs_tr",
+      "blocks": [22]
+    }
+  ]
+}
